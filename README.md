@@ -20,4 +20,4 @@ I assume that your structure looks like this:
     * (folder with name of the video)
     * ...
 </i>
-Copy the following Python script, change <i>source_folder<i>, and <i>output_folder<i>, and run it. It will create a new folder in the output folder for every video, and other files in the folder with the name of the video.
+Copy the following Python script, change <i>source_folder</i>, and <i>output_folder</i>, and run it. It will create a new folder in the output folder for every video, and other files in the folder with the name of the video.
