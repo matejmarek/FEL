@@ -1,7 +1,7 @@
 # FEL
-📁 CVUT-FEL is a project for creating a website for VOT Challenge.  
-🔗 Link to the website: https://www.votchallenge.net/vots2023/  
-👨‍💻 This repository was created by Matej Marek stealing its structure from Tomas Peterka.  
+ CVUT-FEL is a project for creating a website for VOT Challenge.  
+ Link to the website: https://www.votchallenge.net/vots2023/  
+ This repository was created by Matej Marek stealing its structure from Tomas Peterka.  
 
 ## Preparations
 
