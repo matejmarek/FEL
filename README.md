@@ -1,7 +1,7 @@
 # FEL
-FEL is a project for creating a program for VOT Challenge.
-🔗 Link to the website: https://www.votchallenge.net/vots2023/
-This repository was created by Matej Marek.
+ FEL is a project for creating a program for VOT Challenge.
+ 🔗 Link to the website: https://www.votchallenge.net/vots2023/
+ This repository was created by Matej Marek.
 
 ## Preparations
 
